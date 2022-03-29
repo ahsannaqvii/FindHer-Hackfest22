@@ -11,7 +11,7 @@
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 * **Subhan Saleem**
 [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ahsannaqvii/)
-[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/subhansaleem)
 * **Mustafa Bawany**
 [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/mustafabawany/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
