@@ -13,7 +13,7 @@
 [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ahsannaqvii/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 * **Mustafa Bawany**
-[![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ahsannaqvii/)
+[![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/mustafabawany/)
 [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/)
 * **Ahmed Raza**
 [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/ahsannaqvii/)
@@ -62,7 +62,7 @@ FindHer is an application based platform to promote women and empower them.Throu
 ## Contact
 * Syed Ahsan, [syedahsanwork127@gmail.com]()
 * Subhan Saleem,[]()
-* Mustafa Bawany,[]()
+* Mustafa Bawany, [mustafabawany204@gmail.com]()
 * Ahmed Raza,[]()
 
 ## Todo
